@@ -39,7 +39,7 @@
 
 /* START: Hero styles */
 .hero {
-  @apply flex xl:flex-row flex-col gap-5 w-full h-screen mx-auto;
+  @apply flex xl:flex-row flex-col gap-5 w-full xl:h-screen mx-auto;
 }
 
 .hero__title {
